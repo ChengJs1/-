@@ -12,6 +12,15 @@
       "changeable": 1
     },
     {
+      "key": "t4public",
+      "name": "🔍豆瓣榜单2〔不要勾选〕",
+      "type": 4,
+      "api": "http://drpy.ganggang.live:5705/vod?rule=drpy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "配置中心",
       "name": "👨‍🍳‍配置┃中心",
       "type": 3,
@@ -75,13 +84,38 @@
       "searchable": 1,
       "changeable": 1
     },
-     {
-      "key": "自用",
-      "name": "自用影视",
+    {
+      "key": "Lgyy",
+      "name": " 📽 蓝光〔SP〕",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
+    },
+    {
+      "key": "ziji2",
+      "name": "💘橘子柚┃4K|弹幕💘",
       "type": 3,
-      "api": "https://kimivod.com/",
+      "api": "csp_Zijijiekou",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "ext": {
+        "token": "",
+        "url": "https://www.juziyou.vip"
+      }
+    },
+    {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
+      "ext": "./json/duboku.json$$$proxy"
     },
     {
       "key": "ddys_js",
