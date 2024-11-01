@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🤓公众号┃OK猫开发",
+      "name": "程佳烁自研",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "t4public",
-      "name": "🔍豆瓣榜单2〔不要勾选〕",
+      "name": "🔍豆瓣榜单2",
       "type": 4,
       "api": "http://drpy.ganggang.live:5705/vod?rule=drpy",
       "searchable": 1,
