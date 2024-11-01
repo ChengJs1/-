@@ -45,7 +45,6 @@
       "filterable": 1,
       "timeout": 10
     },
-    
     {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
@@ -55,69 +54,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10
-    },
-    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
- 
-    {
-      "key": "南瓜",
-      "name": "💥瓜瓜┃影视💥",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "changeable": 1
-    },
-  {
-      "key": "Lgyy",
-      "name": " 📽 蓝光〔SP〕",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
-    },
-    {
-      "key": "ziji2",
-      "name": "💘橘子柚┃4K|弹幕💘",
-      "type": 3,
-      "api": "csp_Zijijiekou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "token": "",
-        "url": "https://www.juziyou.vip"
-      }
-    },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
-      "ext": "./json/duboku.json$$$proxy"
-    },
-    {
-      "key": "alllive",
-      "name": "📽️一直播┃LIVE",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "米搜",
