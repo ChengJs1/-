@@ -36,26 +36,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "天天",
-      "name": "⛅️天天┃直连",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+    
     {
       "key": "米搜",
       "name": "🦋米盘┃搜搜",
@@ -81,6 +62,38 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
+    },
+    {
+      "key": "hipy_js_金牌影院",
+      "name": "金牌影院",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./drpy_js/金牌影院.js"
+    }, 
+    {
+      "key": "js_nangua",
+      "name": "南瓜秒播",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./drpy_js/南瓜影视[优].js"
+    },
+    {
+      "key": "js_荐片",
+      "name": "荐片影视",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "ext": "./drpy_js/荐片[优].js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Lib",
