@@ -73,6 +73,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./drpy_js/金牌影院.js"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729574905455/zx4k.jar;md5;AAF8C2637BA9BC7408E422719ADB0CC6
     }, 
     {
       "key": "js_nangua",
@@ -83,6 +84,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./drpy_js/南瓜影视[优].js"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729574905455/zx4k.jar;md5;AAF8C2637BA9BC7408E422719ADB0CC6
     },
     {
       "key": "js_荐片",
@@ -94,6 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729574905455/zx4k.jar;md5;AAF8C2637BA9BC7408E422719ADB0CC6
     },
     {
       "key": "Lib",
